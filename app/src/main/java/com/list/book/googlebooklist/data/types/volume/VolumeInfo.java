@@ -13,6 +13,7 @@ public class VolumeInfo {
     private String maturityRating;
     private boolean allowAnonLogging;
     private String contentVersion;
+    private ImagesLink imageLinks;
     private String language;
     private String previewLink;
     private String infoLink;
@@ -107,6 +108,14 @@ public class VolumeInfo {
 
     public void setContentVersion(String contentVersion) {
         this.contentVersion = contentVersion;
+    }
+
+    public ImagesLink getImageLinks() {
+        return imageLinks;
+    }
+
+    public void setImageLinks(ImagesLink imageLinks) {
+        this.imageLinks = imageLinks;
     }
 
     public String getLanguage() {
