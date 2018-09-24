@@ -68,7 +68,7 @@ class VolumeDetailsActivity : AppCompatActivity() {
                 }
 
                 if (volume.saleInfo?.retailPrice != null) {
-                    book_price.text = "Price: $${volume.saleInfo?.retailPrice}"
+                    book_price.text = "Price: $${volume.saleInfo?.retailPrice?.amount}"
                 } else {
                     book_price.visibility = View.INVISIBLE
                 }
@@ -80,7 +80,7 @@ class VolumeDetailsActivity : AppCompatActivity() {
                     book_publisher.visibility = View.GONE
                 }
 
-                book_description.text = volume.volumeInfo?.description
+                book_description.text = "${volume.volumeInfo?.description}"
 
 
             }
