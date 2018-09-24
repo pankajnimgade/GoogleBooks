@@ -1,0 +1,879 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2477,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "D7-1BAAAQBAJ",
+      "etag": "etkVy4403nU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D7-1BAAAQBAJ",
+      "volumeInfo": {
+        "title": "England's Secret Weapon",
+        "subtitle": "The Wartime Films of Sherlock Holmes",
+        "authors": [
+          "Amanda Field"
+        ],
+        "publisher": "Andrews UK Limited",
+        "publishedDate": "2012-07-19",
+        "description": "England's Secret Weapon explores the way Hollywood used Sherlock Holmes in a series of fourteen films spanning the years of World War II in Europe, from The Hound of the Baskervilles in 1939 to Dressed to Kill in 1946. Basil Rathbone’s portrayal of Holmes has influenced every actor who has since played him on film, TV, stage and radio, yet the film series has, until now, been neglected in terms of detailed critical analysis. The book looks at the films themselves in combination with their historical context and examines how the studio ‘updated’ Holmes and recruited him to fight the Nazis, steering a careful course between modernising the detective and making sure he was still recognisable as the ‘old Holmes’ in clothes, locations and behaviour.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780957112834"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0957112831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D7-1BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D7-1BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D7-1BAAAQBAJ&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=101&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=D7-1BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-D7-1BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.49,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=D7-1BAAAQBAJ&rdid=book-D7-1BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14490000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/England_s_Secret_Weapon-sample-pdf.acsm?id=D7-1BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D7-1BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book looks at the films themselves in combination with their historical context and examines how the studio ‘updated’ Holmes and recruited him to fight the Nazis, steering a careful course between modernising the detective and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VivCEDy0OFgC",
+      "etag": "i8wtcTXtvw4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VivCEDy0OFgC",
+      "volumeInfo": {
+        "title": "The Scientific Sherlock Holmes",
+        "subtitle": "Cracking the Case with Science and Forensics",
+        "authors": [
+          "James O'Brien"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2013-01-02",
+        "description": "One of the most popular and widely known characters in all of fiction, Sherlock Holmes has an enduring appeal based largely on his uncanny ability to make the most remarkable deductions from the most mundane facts. The very first words that Sherlock Holmes ever says to Dr. Watson are, \"How are you? You have been in Afghanistan, I perceive.\" Watson responds, \"How on earth did you know that?\" And so a crime-solving legend is born. In The Scientific Sherlock Holmes, James O'Brien provides an in-depth look at Holmes's use of science in his investigations. Indeed, one reason for Holmes's appeal is his frequent use of the scientific method and the vast scientific knowledge which he drew upon to solve mysteries. For instance, in heart of the book, the author reveals that Holmes was a pioneer of forensic science, making use of fingerprinting well before Scotland Yard itself had adopted the method. One of the more appealing aspects of the book is how the author includes real-world background on topics such as handwriting analysis, describing how it was used to capture the New York Zodiac killer and to clinch the case against the Lindbergh baby kidnapper. Sherlock Holmes was knowledgeable about several sciences, most notably chemistry. Therefore the book takes a close look at Holmes the chemist and discusses, for example, chemical poisons such as carbon monoxide, chloroform, and Prussic acid (the historical name for hydrogen cyanide). The author also debunks Isaac Asimov's famous assertion that Holmes was a blundering chemist. In addition, the book discusses mathematics, physics, biology, astronomy, meteorology, and geology, always in the context of Holmes's exploits. Sherlock Holmes continues to fascinate millions of readers and movie goers alike. The Scientific Sherlock Holmes is a must-read for the legion of fans of this most beloved of all fictional detectives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199311576"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199311579"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VivCEDy0OFgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VivCEDy0OFgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VivCEDy0OFgC&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=102&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VivCEDy0OFgC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-VivCEDy0OFgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VivCEDy0OFgC&rdid=book-VivCEDy0OFgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Scientific_Sherlock_Holmes-sample-epub.acsm?id=VivCEDy0OFgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Scientific_Sherlock_Holmes-sample-pdf.acsm?id=VivCEDy0OFgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VivCEDy0OFgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Therefore the book takes a close look at Holmes the chemist and discusses, for example, chemical poisons such as carbon monoxide, chloroform, and Prussic acid (the historical name for hydrogen cyanide)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WRheoKEdGAMC",
+      "etag": "+1xZ9DOtMnc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WRheoKEdGAMC",
+      "volumeInfo": {
+        "title": "Becoming Holmes",
+        "subtitle": "The Boy Sherlock Holmes, His Final Case",
+        "authors": [
+          "Shane Peacock"
+        ],
+        "publisher": "Tundra Books",
+        "publishedDate": "2012-10-09",
+        "description": "The surprising and shocking conclusion to the unique BOY SHERLOCK HOLMES series. Becoming Sherlock is the final book in Shane Peacock's award-winning Boy Sherlock Holmes series, combining brilliant storytelling with fascinating historical detail, and a mystery worthy of one of the greatest sleuths in English literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781770492912"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1770492917"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WRheoKEdGAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WRheoKEdGAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WRheoKEdGAMC&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=103&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WRheoKEdGAMC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-WRheoKEdGAMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WRheoKEdGAMC&rdid=book-WRheoKEdGAMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Becoming_Holmes-sample-epub.acsm?id=WRheoKEdGAMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WRheoKEdGAMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Becoming Sherlock is the final book in Shane Peacock&#39;s award-winning Boy Sherlock Holmes series, combining brilliant storytelling with fascinating historical detail, and a mystery worthy of one of the greatest sleuths in English literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XOWBhGDHCa0C",
+      "etag": "O39t9uC8plU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XOWBhGDHCa0C",
+      "volumeInfo": {
+        "title": "Sherlock Holmes and the Adventure at the Copper Beeches",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publisher": "Graphic Universe",
+        "publishedDate": "2011",
+        "description": "A young woman is forced to cut off her long hair to be hired as a governess. She's asked to dress in a specific blue gown. Are her employers' wishes merely strange or is she in danger?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761370956"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0761370951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XOWBhGDHCa0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XOWBhGDHCa0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XOWBhGDHCa0C&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=104&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XOWBhGDHCa0C&dq=Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock_Holmes_and_the_Adventure_at_the.html?hl=&id=XOWBhGDHCa0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XOWBhGDHCa0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A young woman is forced to cut off her long hair to be hired as a governess. She&#39;s asked to dress in a specific blue gown. Are her employers&#39; wishes merely strange or is she in danger?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OBM3AAAAIAAJ",
+      "etag": "8j8Jt7p152I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OBM3AAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Sign of Four",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "publishedDate": "1890",
+        "description": "Sign of four: Mary Morstan calls Sherlock Holmes to find her vanished father.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3578478"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "categories": [
+          "Holmes, Sherlock (Fictitious character)"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 123,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OBM3AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OBM3AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OBM3AAAAIAAJ&pg=PP1&dq=Sherlock+Holmes&hl=&cd=105&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OBM3AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-OBM3AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OBM3AAAAIAAJ&rdid=book-OBM3AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Sign_of_Four.epub?id=OBM3AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Sign_of_Four.pdf?id=OBM3AAAAIAAJ&hl=&output=pdf&sig=ACfU3U2r922MdG8CcBKiqlNicd3VVgbQfQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OBM3AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sign of four: Mary Morstan calls Sherlock Holmes to find her vanished father."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2D9t62Fo7k0C",
+      "etag": "kDRHRhV9M+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2D9t62Fo7k0C",
+      "volumeInfo": {
+        "title": "The Sir Arthur Conan Doyle Reader",
+        "subtitle": "From Sherlock Holmes to Spiritualism",
+        "authors": [
+          "Sir Arthur Conan Doyle",
+          "Jeffrey Meyers",
+          "Valerie Meyers"
+        ],
+        "publisher": "Rowman & Littlefield",
+        "publishedDate": "2002-01-01",
+        "description": "This is the first and only reader to encompass the enormous and eclectic range representing the ouevre of Sir Arthur Conan Doyle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780815412021"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0815412029"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2D9t62Fo7k0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2D9t62Fo7k0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2D9t62Fo7k0C&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=106&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2D9t62Fo7k0C&dq=Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sir_Arthur_Conan_Doyle_Reader.html?hl=&id=2D9t62Fo7k0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2D9t62Fo7k0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the first and only reader to encompass the enormous and eclectic range representing the ouevre of Sir Arthur Conan Doyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WiScNWA6JqAC",
+      "etag": "k3AlkUt+tDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WiScNWA6JqAC",
+      "volumeInfo": {
+        "title": "The Return of Sherlock Holmes",
+        "authors": [
+          "G. K. Chesterton"
+        ],
+        "publisher": "Oxford Paperbacks",
+        "publishedDate": "1993-09-30",
+        "description": "Ten years after the supposed death of Sherlock Holmes at the Reichenbach Falls, Arthur Conan Doyle was to bow to popular pressure and breathe new life into his creation. To the astonishment of Dr Watson, and the delight of his readers, Holmes reappears in Baker Street to embark on a new series of adventures. Amongst the famous cases he and Watson tackle are `The Dancing Men', `The Solitary Cyclist', and `The Six Napoleons'. Conan Doyle's own life provides inspiration for the tales, from his days as a student doctor on a Greenland whaler to the overwhelming grief he experienced from his wife's slow death from tuberculosis. - ;Ten years after the supposed death of Sherlock Holmes at the Reichenbach Falls, Arthur Conan Doyle was to bow to popular pressure and breathe new life into his creation. To the astonishment of Dr Watson, and the delight of his readers, Holmes reappears in Baker Street to embark on a new series of adventures. Amongst the famous cases he and Watson tackle are `The Dancing Men', `The Solitary Cyclist', and `The Six Napoleons'. Conan Doyle's own life provides inspiration for the tales, from his days as a student doctor on a Greenland whaler to the overwhelming grief he experienced from his wife's slow death from tuberculosis. -",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191506093"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191506095"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WiScNWA6JqAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WiScNWA6JqAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WiScNWA6JqAC&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=107&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WiScNWA6JqAC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-WiScNWA6JqAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.03,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WiScNWA6JqAC&rdid=book-WiScNWA6JqAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3030000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Return_of_Sherlock_Holmes-sample-epub.acsm?id=WiScNWA6JqAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Return_of_Sherlock_Holmes-sample-pdf.acsm?id=WiScNWA6JqAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WiScNWA6JqAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conan Doyle&#39;s own life provides inspiration for the tales, from his days as a student doctor on a Greenland whaler to the overwhelming grief he experienced from his wife&#39;s slow death from tuberculosis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bqkJqs9hmasC",
+      "etag": "5zZh4w9Vadg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bqkJqs9hmasC",
+      "volumeInfo": {
+        "title": "More Secret Adventures of Sherlock Holmes",
+        "authors": [
+          "Gary Lovisi"
+        ],
+        "publisher": "Ramble House",
+        "publishedDate": "2011-03-01",
+        "description": "Two years ago Gary Lovisi came out with his first collection of unknown stories about Sherlock Holmes in THE SECRET ADVENTURES OF SHERLOCK HOLMES. Now, Gary adds three more tales to the canon with \"The Notorious Crosby Murders,\" \"A Study in Evil\" and \"The American Adventure.\" These reveal sides of the great detective you may not be familiar with, for instance, his obsession with blood spatter evidence almost a century before Dexter and CSI got in the act. And did you know that Holmes once visited the United States and solved a crime there? Join Gary Lovisi in his quest to regale us with ALL of the Sherlock Holmes stories -- even the ones Watson never knew about!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781605435435"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1605435430"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bqkJqs9hmasC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bqkJqs9hmasC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bqkJqs9hmasC&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=108&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bqkJqs9hmasC&dq=Sherlock+Holmes&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/More_Secret_Adventures_of_Sherlock_Holme.html?hl=&id=bqkJqs9hmasC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bqkJqs9hmasC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And did you know that Holmes once visited the United States and solved a crime there? Join Gary Lovisi in his quest to regale us with ALL of the Sherlock Holmes stories -- even the ones Watson never knew about!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lViv-zdWU4IC",
+      "etag": "zJ0oq0Dle+Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lViv-zdWU4IC",
+      "volumeInfo": {
+        "title": "Young Sherlock Holmes: Bedlam (Short Reads)",
+        "authors": [
+          "Andrew Lane"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2011-12-02",
+        "description": "Sherlock has been incarcerated in the Bethlehem Hospital – Bedlam - where Victorian London’s most unfortunate citizens are locked away in squalor, cruelty and hopelessness. Sherlock tells them he’s not mad – but who’d believe a lunatic? There’s only one option: he has to escape – and then use all his rational powers to work out who put him there in the first place . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781447212874"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1447212878"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lViv-zdWU4IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lViv-zdWU4IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lViv-zdWU4IC&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=109&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lViv-zdWU4IC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-lViv-zdWU4IC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lViv-zdWU4IC&rdid=book-lViv-zdWU4IC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Young_Sherlock_Holmes_Bedlam_Short_Reads-sample-epub.acsm?id=lViv-zdWU4IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lViv-zdWU4IC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sherlock has been incarcerated in the Bethlehem Hospital – Bedlam - where Victorian London’s most unfortunate citizens are locked away in squalor, cruelty and hopelessness."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9LGvL2WcXX0C",
+      "etag": "wq2OPO6wAhI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9LGvL2WcXX0C",
+      "volumeInfo": {
+        "title": "Sherlock Holmes by Gas-lamp",
+        "subtitle": "Highlights from the First Four Decades of the Baker Street Journal",
+        "authors": [
+          "Philip A. Shreffler"
+        ],
+        "publisher": "Fordham Univ Press",
+        "publishedDate": "1989-01-01",
+        "description": "Sherlock Holmes was still an undergraduate when Squire Trevor pointed out the direction of his future life's work, telling him that all the detectives of fact and of fancy would be children in your hands.His prediction was right on the mark: so it was then, and so it remains more than a century later. Never mind that Trevor's name wasn't really Trevor, or that Holmes hid the name of his university. Or perhaps you do mind, as so many have before you. It was such a like-minded group of people who got together in 1934 to found the world's first Sherlockian organization, The Baker Street Irregulars. With the end of the Second World War came the opportunity to found a means of publishing their studies in Sherlock Holmes and the Sherlockian world, The Baker Street Journal. Long the first place the inquirer should look for answers to Sherlockian puzzles or the posing of new ones, The Baker Street Journal still flourishes, both as a journal of record of Sherlockian activities in America and throughout the world, and as the premier publication devoted to the writings about the Writingsand to keeping green the memory of the world's first consulting detective. The practitioners of the game have at their best offered learned works that they have written with their tongues planted firmly in their cheeks. Their tone has ranged from mock-heroic through the archly chiding to the playful, in prose and verse or in combinations of the two. Sherlock Holmes by Gas-Lamp is the first time that the best of these writings has been gathered in one place. Some of the prominent players of the game have included such luminaries in various walks of life as Christopher Morley, Franklin D. Roosevelt, T. S. Eliot, Vincent Starrett, Elmer Davis, Harry S. Truman, Franklin P. Adams, and Ellery Queen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0823212211"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780823212217"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 423,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9LGvL2WcXX0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9LGvL2WcXX0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9LGvL2WcXX0C&printsec=frontcover&dq=Sherlock+Holmes&hl=&cd=110&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9LGvL2WcXX0C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-9LGvL2WcXX0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 30.4,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.72,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9LGvL2WcXX0C&rdid=book-9LGvL2WcXX0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 30400000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16720000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_by_Gas_lamp-sample-pdf.acsm?id=9LGvL2WcXX0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9LGvL2WcXX0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sherlock Holmes by Gas-Lamp is the first time that the best of these writings has been gathered in one place."
+      }
+    }
+  ]
+}
